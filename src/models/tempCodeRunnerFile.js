@@ -1,0 +1,1 @@
+ unique: [true, "Email already exists."]
